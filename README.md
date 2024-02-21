@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
-### <div align="center">I'm Jayesh Vegda, A Web Developer and Tech Enthusiast</div>  
+###<div align="center">I'm Jayesh Vegda, A Web Developer and Tech Enthusiast</div>  
   
 
 - 🔭 I’m currently working on Ecommarce Site  
