@@ -1,8 +1,7 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-  https://gofile.io/uploadFiles
-https://gofile.io/d/5mnIls
+
 ### <div align="center">I'm Jayesh Vegda, A Web Developer and Tech Enthusiast</div>  
   
 
