@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Project<br>🌱 I’m currently learning React
+🔭 I’m learning DSA for placement <br>🌱 I’m currently learning React
 
 
 ## 🌐 Socials:
