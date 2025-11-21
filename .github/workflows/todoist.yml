@@ -1,0 +1,21 @@
+name: Update Todoist Stats
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # updates every 6 hours
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          SHOW_TODOIST: "true"
+          TODOIST_TOKEN: ${{ secrets.TODOIST_TOKEN }}
+          SHOW_PROJECTS: "false"
+          SHOW_OS: "false"
+          SHOW_TIMEZONE: "false"
+          SHOW_UPDATED_DATE: "false"
+          SHOW_EDITORS: "false"
