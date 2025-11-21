@@ -4,22 +4,22 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jayeshvegda">
-    <img src="https://img.shields.io/badge/LinkedIn-0A3A73?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A3A73" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A3A73?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A3A73" alt="LinkedIn"/>
   </a>
   <a href="https://jayesh-vegda-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-2B2F33?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=2B2F33" />
+    <img src="https://img.shields.io/badge/Portfolio-2B2F33?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=2B2F33" alt="Portfolio"/>
   </a>
   <a href="https://instagram.com/zayu.vegda">
-    <img src="https://img.shields.io/badge/Instagram-4E1A30?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=4E1A30" />
+    <img src="https://img.shields.io/badge/Instagram-4E1A30?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=4E1A30" alt="Instagram"/>
   </a>
   <a href="https://wa.me/919510233829">
-    <img src="https://img.shields.io/badge/WhatsApp-0F4E2A?style=for-the-badge&logo=whatsapp&logoColor=25D366&labelColor=0F4E2A" />
+    <img src="https://img.shields.io/badge/WhatsApp-0F4E2A?style=for-the-badge&logo=whatsapp&logoColor=25D366&labelColor=0F4E2A" alt="WhatsApp"/>
   </a>
   <a href="mailto:jayeshvegda198@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-681313?style=for-the-badge&logo=gmail&logoColor=D14836&labelColor=681313" />
+    <img src="https://img.shields.io/badge/Gmail-681313?style=for-the-badge&logo=gmail&logoColor=D14836&labelColor=681313" alt="Gmail"/>
   </a>
   <a href="https://leetcode.com/jayeshvegda">
-    <img src="https://img.shields.io/badge/LeetCode-3A2A00?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=3A2A00" />
+    <img src="https://img.shields.io/badge/LeetCode-3A2A00?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=3A2A00" alt="LeetCode"/>
   </a>
 </p>
 
@@ -84,17 +84,28 @@
 ---
 
 ## 🎧 Activity & Music
-<img
-  align="left"
-  width="48%"
-  src="https://github-readme-todoist.vercel.app/api?username=JayeshVegda&theme=dark&show_progress=true"
-/>
+<div align="center">
 
-<p align="center">
+  <!-- Left card -->
+  <img 
+src = "https://github.com/user-attachments/assets/fcd0bc0c-9c1f-40c5-8d58-90e9c08e9add"
+    width="45%" 
+    align="left"
+    style="border-radius: 12px;"
+  />
+
+  <!-- Right Spotify -->
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=313e2rvaqeal2ky37fpwzvvof22q&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=313e2rvaqeal2ky37fpwzvvof22q&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=true&profanity=true&mode=light">
+    <img 
+      src="https://spotify-github-profile.kittinanx.com/api/view?uid=313e2rvaqeal2ky37fpwzvvof22q&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=true&profanity=true&mode=light" 
+      width="45%" 
+      align="right"
+    />
   </a>
-</p>
+
+</div>
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 ---
