@@ -1,66 +1,84 @@
-<h1 align="center">Hi, I'm Jayesh Vegda 👋</h1>
-<p align="center">🚀 Passionate Developer | 🧠 DSA Explorer | 🌱 React Learner | 🛠️ Building, Breaking, Learning</p>
 
----
-
-## 🧭 About Me
-- 🎯 Focused on DSA for placements – slow, steady, and consistent.
-- ⚛️ Currently diving into React and the MERN stack.
-- 🛠️ Building cool stuff that solves real problems.
-- 🧘‍♂️ Believer in simplicity, consistency, and lifelong learning.
-
----
-
-## 📌 My Tech Toolbox
+<img width="2400" height="450" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/dced3a41-b9a0-417a-9e29-855025f87658" />
+<p> </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,python,php,django,dotnet,mysql,mongodb,sqlite,bootstrap,tailwind,git,github,vscode,visualstudio,postman,windows" />
+  <a href="https://www.linkedin.com/in/jayeshvegda">
+    <img src="https://img.shields.io/badge/LinkedIn-0A3A73?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A3A73" />
+  </a>
+  <a href="https://jayesh-vegda-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-2B2F33?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=2B2F33" />
+  </a>
+  <a href="https://instagram.com/zayu.vegda">
+    <img src="https://img.shields.io/badge/Instagram-4E1A30?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=4E1A30" />
+  </a>
+  <a href="https://wa.me/919510233829">
+    <img src="https://img.shields.io/badge/WhatsApp-0F4E2A?style=for-the-badge&logo=whatsapp&logoColor=25D366&labelColor=0F4E2A" />
+  </a>
+  <a href="mailto:jayeshvegda198@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-681313?style=for-the-badge&logo=gmail&logoColor=D14836&labelColor=681313" />
+  </a>
+  <a href="https://leetcode.com/jayeshvegda">
+    <img src="https://img.shields.io/badge/LeetCode-3A2A00?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=3A2A00" />
+  </a>
 </p>
 
 ---
 
-## 🔥 LeetCode Progress
+<p align="center">
+  <img src="https://count.getloli.com/get/@JayeshVegda?theme=original-new&align=center" alt="Profile Count" />
+</p>
 
-[![LeetCode](https://leetcard.jacoblin.cool/jayeshvegda?theme=light&font=Karla&ext=heatmap)](https://leetcode.com/jayeshvegda)
+  <h2 align="center">✨ About Me ✨</h2>
+  
+- 💻 Full-Stack Developer who loves building smooth, fast, and useful web apps
+
+- 🔍 Currently improving DSA skills & writing cleaner code every day
+  
+- ⚛️ Exploring React + MERN stack with real-world projects
+  
+- 🧩 Problem-solving mindset — enjoy breaking problems into simple parts
+  
+- 🚀 Always experimenting with new tools, tech, and UI ideas
+  
+- ♟️ Chess lover who thinks in patterns (helps in coding too)
+
+
 
 ---
 
-## 📈 GitHub Insights
+
+## 🛠️ Tech Stack
+
+<p> <!-- Languages --> <img src="https://img.shields.io/badge/Java-3C2F2F?style=for-the-badge&logo=openjdk&logoColor=F89820" /> <img src="https://img.shields.io/badge/Python-1E2B3A?style=for-the-badge&logo=python&logoColor=FFD43B" /> <img src="https://img.shields.io/badge/C++-1A2A3C?style=for-the-badge&logo=cplusplus&logoColor=00599C" /> <img src="https://img.shields.io/badge/JavaScript-2D2605?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/TypeScript-15243B?style=for-the-badge&logo=typescript&logoColor=3178C6" /> <img src="https://img.shields.io/badge/HTML5-3A231D?style=for-the-badge&logo=html5&logoColor=E34F26" /> <img src="https://img.shields.io/badge/CSS3-182738?style=for-the-badge&logo=css3&logoColor=1572B6" /> <!-- Frameworks --> <img src="https://img.shields.io/badge/React-0D1A20?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-0F1E14?style=for-the-badge&logo=node.js&logoColor=3C873A" /> <img src="https://img.shields.io/badge/Express.js-1A1A1A?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/Django-0F1E17?style=for-the-badge&logo=django&logoColor=0C4B33" /> <img src="https://img.shields.io/badge/Flask-1B1B1B?style=for-the-badge&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-3B1A1A?style=for-the-badge&logo=laravel&logoColor=FF2D20" /> <img src="https://img.shields.io/badge/Bootstrap-201A2B?style=for-the-badge&logo=bootstrap&logoColor=7952B3" /> <img src="https://img.shields.io/badge/TailwindCSS-0E2530?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" /> <!-- Databases --> <img src="https://img.shields.io/badge/MongoDB-12281E?style=for-the-badge&logo=mongodb&logoColor=4AAE50" /> <img src="https://img.shields.io/badge/MySQL-1A2633?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-1C2F3F?style=for-the-badge&logo=sqlite&logoColor=0A6EBD" /> <!-- Tools --> <img src="https://img.shields.io/badge/Git-3B1F1F?style=for-the-badge&logo=git&logoColor=F05032" /> <img src="https://img.shields.io/badge/GitHub-1A1F24?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-2D2A1A?style=for-the-badge&logo=linux&logoColor=FCC624" /> <img src="https://img.shields.io/badge/Docker-123247?style=for-the-badge&logo=docker&logoColor=2496ED" /> <img src="https://img.shields.io/badge/Azure-0E1F36?style=for-the-badge&logo=microsoftazure&logoColor=0089D6" /> <img src="https://img.shields.io/badge/Vercel-101010?style=for-the-badge&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/VS%20Code-102F52?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" /> <img src="https://img.shields.io/badge/Visual%20Studio-2E2142?style=for-the-badge&logo=visualstudio&logoColor=7A4FBA" /> </p>
+<p> </p>
+
+## 🚀 Featured Projects
+
+<table align="left"><thead align="left"><tr><th>📦 Repo</th><th>📝 Use in one line</th><th>⭐ Stars</th><th>👁️ Views</th><th>🕒 Last Commit</th></tr></thead><tbody><tr><td><a href="https://github.com/JayeshVegda/Flow.Launcher.Plugin.LaunchNow"><b>LaunchNow (Flow Launcher)</b></a></td><td>Multi-search plugin to open any site</td><td><img alt="Stars" src="https://img.shields.io/github/stars/JayeshVegda/Flow.Launcher.Plugin.LaunchNow?style=flat-square&labelColor=1b1f24" /></td><td><img alt="Views" src="https://hits.sh/github.com/JayeshVegda/Flow.Launcher.Plugin.LaunchNow.svg?style=flat-square" /></td><td><img alt="Last Commit" src="https://img.shields.io/github/last-commit/JayeshVegda/Flow.Launcher.Plugin.LaunchNow?style=flat-square&labelColor=1b1f24" /></td></tr><tr><td><a href="https://github.com/JayeshVegda/Flow.Launcher.Plugin.MovieSearch"><b>MovieSearch (Flow Launcher)</b></a></td><td>Search movies via TMDB.</td><td><img alt="Stars" src="https://img.shields.io/github/stars/JayeshVegda/Flow.Launcher.Plugin.MovieSearch?style=flat-square&labelColor=1b1f24" /></td><td><img alt="Views" src="https://hits.sh/github.com/JayeshVegda/Flow.Launcher.Plugin.MovieSearch.svg?style=flat-square" /></td><td><img alt="Last Commit" src="https://img.shields.io/github/last-commit/JayeshVegda/Flow.Launcher.Plugin.MovieSearch?style=flat-square&labelColor=1b1f24" /></td></tr><tr><td><a href="https://github.com/JayeshVegda/CoSearch"><b>CoSearch</b></a></td><td>Customizable search hub</td><td><img alt="Stars" src="https://img.shields.io/github/stars/JayeshVegda/CoSearch?style=flat-square&labelColor=1b1f24" /></td><td><img alt="Views" src="https://hits.sh/github.com/JayeshVegda/CoSearch.svg?style=flat-square" /></td><td><img alt="Last Commit" src="https://img.shields.io/github/last-commit/JayeshVegda/CoSearch?style=flat-square&labelColor=1b1f24" /></td></tr></tbody></table>
+
+<br><br><br><br><br><br><br>
+
+
+## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JayeshVegda&show_icons=true&theme=radical&border_radius=10&hide_border=false" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayeshVegda&theme=radical&hide_border=false" height="180"/>
+  <img 
+    src="https://leetcard.jacoblin.cool/jayeshvegda?theme=dark&font=JetBrains%20Mono&border=0&radius=8" 
+    alt="LeetCode Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayeshVegda&layout=compact&theme=radical&hide_border=false&langs_count=10" />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JayeshVegda&theme=github_dark" 
+    alt="GitHub Profile Summary" 
+    width="850" />
 </p>
+https://github-readme-stats.vercel.app/api/top-langs/?username=JayeshVegda&layout=compact&theme=dark&hide_border=true
 
----
-
-## 🧠 Currently Exploring
-- 💻 Building a DSA Tracker with MERN stack
-- 📚 Reading *Discourses* by Epictetus (love Stoic philosophy)
-- 🔍 Improving problem-solving speed on LeetCode
-
----
-
-## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/jayeshvegda"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/zayu_vegda"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <a href="https://pinterest.com/jayeshvegda"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white"/></a>
-  <a href="https://x.com/jayu_vegda"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white"/></a>
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=313e2rvaqeal2ky37fpwzvvof22q&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=313e2rvaqeal2ky37fpwzvvof22q&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=true&profanity=true&mode=light">
+  </a>
 </p>
-
----
-
-## 🧩 Fun Facts
-- 🧘 I track life and learning through Notion and journaling.
-- 🐍 I write Python just for fun sometimes.
-- ✨ Still believe magic happens when you keep showing up.
-
----
-
-> *"Don't explain your philosophy. Embody it."* — Epictetus
