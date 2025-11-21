@@ -74,11 +74,32 @@
     alt="GitHub Profile Summary" 
     width="850" />
 </p>
-https://github-readme-stats.vercel.app/api/top-langs/?username=JayeshVegda&layout=compact&theme=dark&hide_border=true
 
+
+
+![pacman-contributions](https://github.com/user-attachments/assets/c26f7709-9734-4657-9148-8000ff05ebe2)
+
+
+
+---
+
+## 🎧 Activity & Music
+<img
+  align="left"
+  width="48%"
+  src="https://github-readme-todoist.vercel.app/api?username=JayeshVegda&theme=dark&show_progress=true"
+/>
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=313e2rvaqeal2ky37fpwzvvof22q&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=313e2rvaqeal2ky37fpwzvvof22q&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=true&profanity=true&mode=light">
   </a>
+</p>
+
+
+---
+
+<p align="center">
+  <b>📬 Let's Connect & Build Something Great</b><br/>
+  <sub>Thanks for scrolling — you're awesome.</sub>
 </p>
